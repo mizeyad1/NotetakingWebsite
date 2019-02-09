@@ -1,0 +1,2 @@
+note_title	text_note	date_note	note_owner
+user_id    user_name  user_password user_email

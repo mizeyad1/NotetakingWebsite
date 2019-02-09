@@ -1,0 +1,92 @@
+body {
+     color:white;
+     background-color: #0c0129;
+
+}
+
+.wrapper
+{
+  position:relative;
+  left:600px;
+}
+ h1
+{
+	text-align: center;
+  color:white;
+
+}
+#responsecontainer
+{
+  color:white;
+}
+
+
+ textarea
+{
+	font-family: sans-serif;
+	font-size:30px;
+	display:block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+input[type=submit] {
+     width: 25%;
+   background-color:#00b33c;
+
+   padding: 14px 20px;
+   margin: 8px 0;
+
+   border-radius: 4px;
+   cursor: pointer;
+
+   background-color: white;
+   color: black;
+   border: 2px solid #4CAF50;
+}
+input[type=submit]:hover{
+  background-color:#008028;
+  color: white;
+}
+button
+{
+  width: 25%;
+background-color:#00b33c;
+display: block;
+padding: 14px 20px;
+margin: 8px 0;
+
+border-radius: 4px;
+cursor: pointer;
+
+background-color: white;
+color: black;
+border: 2px solid #4CAF50;
+}
+button:hover
+{
+  background-color:#008028;
+  color: white;
+}
+a:link
+{
+  display: inline-block;
+
+background-color:#00b33c;
+
+padding: 14px 20px;
+margin: 8px 0;
+text-decoration: none;
+border-radius: 4px;
+cursor: pointer;
+
+background-color: white;
+color: black;
+border: 2px solid #4CAF50;
+
+}
+a:hover
+{
+  background-color:#9D26AB;
+  color: white;
+}
